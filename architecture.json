@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_magical_realism_tradition_innovation",
+  "title": "The Song in the Stone",
+  "tagline": "A sculptor who hears the soul of materials must reshape a cursed artifact to save a soul, challenging the gods of craft and chaos.",
+  "target_words": 70000,
+  "actual_words": 74371,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Agency of Material",
+    "Craft as Divine Dialogue",
+    "The Corruption of Tradition",
+    "Innovation as Necessary Sacrifice"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Restless Stone",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Hunter's Commission",
+      "words": 3000
+    },
+    {
+      "ch": 3,
+      "title": "The Discordant Wood",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "First Chisel, First Whisper",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Dreams of the Daughter",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "The Library of Forms",
+      "words": 3400
+    },
+    {
+      "ch": 7,
+      "title": "The Watchers in Blue",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "Lykos's Lesson",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Forge of Persuasion",
+      "words": 3500
+    },
+    {
+      "ch": 10,
+      "title": "A Shape That Screams",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "Theron's Truth",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Nymph's Warning",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The Silent Bird Takes Form",
+      "words": 3300
+    },
+    {
+      "ch": 14,
+      "title": "The Price of Listening",
+      "words": 3500
+    },
+    {
+      "ch": 15,
+      "title": "The Artisan's Doubt",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "A Visit from the Magoi",
+      "words": 3400
+    },
+    {
+      "ch": 17,
+      "title": "The Core of Night",
+      "words": 3600
+    },
+    {
+      "ch": 18,
+      "title": "Binding the Unbound",
+      "words": 3700
+    },
+    {
+      "ch": 19,
+      "title": "The Third Dawn",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "Hunter's Return",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "The Unmaking",
+      "words": 3800
+    },
+    {
+      "ch": 22,
+      "title": "A New Song Forged",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Aftermath of Craft",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "Echoes in the Kerameikos",
+      "words": 3300
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern artisan, a potter or blacksmith, discovers their material has a 'song' or consciousness. How do they react, and what conflict does it create?",
+      "Create a 'found document'—a page from Alexios's sketchbook detailing the properties and 'moods' of different materials (marble, oak, bronze, clay).",
+      "Imagine a prequel story about Theron, detailing the mission where he first encountered the *baskanos* in the 'tomb that should have stayed sealed'.",
+      "Write a dialogue between Lykos and another apprentice years later, where Lykos tries to explain his master's methods and the reality of the 'watchers'."
+    ],
+    "technical": [
+      "Design a 'Material Resonance' system for a game or interactive story, where players must 'listen' to objects to solve puzzles or craft items with unique properties.",
+      "Create a visual mood board or style guide for the novel, blending classical Greek architectural/motif references with a magical, textured realism."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mary Renault (for historical texture and psychological depth)",
+      "Jorge Luis Borges (for metaphysical puzzles and layered reality)",
+      "Ursula K. Le Guin (for the anthropology of magic and quiet power)",
+      "Mikhail Bulgakov (for the bureaucratic surreal and the mundane intersecting with the divine)"
+    ]
+  },
+  "cover_prompt": "A solitary sculptor, hands gripping a mallet and chisel, strains to reshape a pulsating, obsidian monolith that weeps veins of molten gold, [within the sacred chaos of a sun-drenched atelier where marble dust hangs in the air and classical tools lie beside strange, crystalline fragments], [in the atmospheric style of a fusion between John William Waterhouse's mythic luminosity and Zdzisław Beksiński's surreal, textured organicism], [book cover framing, an extreme close-up centered on the point of contact between tool and stone, shot from a low, dramatic angle that makes the sculptor appear to wrestle a mountain], [dramatic chiaroscuro lighting where divine, dusty sunlight clashes with the artifact's internal, chaotic glow, using a palette of warm marble whites, deep volcanic blacks, and corrupted golds], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
