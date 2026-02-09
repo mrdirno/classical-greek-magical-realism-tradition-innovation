@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The stone was singing again. Not a melody, not anything you could whistle back to it, but a low, tectonic hum that vibrated up through the soles of my sandals, through the bones of my feet, and settled like a second heartbeat in the hollow of my chest. I paused, chisel in one hand, mallet in the other, and pressed my palm flat against the marble block. Cool, veined with grey like storm clouds, and thrumming.
@@ -145,6 +147,8 @@ This was not craft. This was war.
 And I had just foolishly, arrogantly, declared it.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The shadow-tendril was a finger’s breadth from my knuckles. The cold radiating from it was not of temperature, but of absence—the chill of a place where no sun had ever reached. My mind screamed at my limbs to move, to throw the chisel, to stumble back. They were locked, entombed in the frozen moment.
@@ -292,6 +296,8 @@ And from the figurine, I heard a new sound. Not a shriek. Not a hum.
 A whimper.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The whimper was not a sound of pain, but of profound confusion. It was the noise a mechanism makes when a master gear is removed—a spinning, purposeless click. The *baskanos* had been built for defiance, for corruption, for the slow seep of influence. It understood resistance. It did not understand this methodical, oily, practical unmaking.
